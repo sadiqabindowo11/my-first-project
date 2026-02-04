@@ -1,0 +1,37 @@
+THE STEPS INVOLVE IN MACHINE LEARNING CONCEPTS
+
+what is machine learning?
+
+  Machine learning is a systematic workflow to build and deploy models that learn from data.it also about extracting knowledge from data.
+we have three types of machine learning:
+1:supervised machine learning : are machine learning that train a model base on LABELED DATA. that means the input and output are known. the key types of supervised learning are: Classification and Regression.
+
+2:unsupervised machine learning: are machine learning that deals with UNLABELED DATA. the goal here is to discover the hidden patterns and relationships within the given data. the key types of unsupervised learning  are :Clustering, Dimensionality Reduction, and Association.
+
+3:Reinforcement machine learning: is dynamic programming where an agent learns and make prediction by interacting with and environment and receiving rewards and penalties.
+
+The steps involve in machine learning
+
+1. define the problem
+2.data collection and preparation 
+3.feature engineering and selection
+4.model training and selection
+5.model evaluation and optimization 
+6.model deployment
+5.monitoring and maintenance 
+
+
+PROJECT OVERVEIW
+
+DEFINING THE PROBLEM :classifying iris species, iris species are flowering plants in the Iridaceae family, renowned for their colorful showy flowers.
+
+DATA COLLECTION AND PREPARATION: iris dataset is a prepared  classic built-in dataset in the scikit- library, widely used as an example for machine learning classification task.
+
+FEATURING ENGINEERING AND SELECTION: the iris dataset provided by sklearn includes 150 samples, each with four measurements :petal length and width, and sepal length and width. species classification is indicated by numerical targets(0,1,2)corresponding respectively to the flower types satosa, versicolor, and  viginica.
+
+
+MODEL TRAINING AND SELECTION: i select a nearest  kneighbourclassifier  machine learning algorithm and i trained it by allowing it to learn patterns and relationship between the dataset.
+
+MODEL EVALUATION AND OPTIMIZATION: i test my model performance using metric score for the accuracy.
+
+MODEL DEPLOYMENT: i use the k nearest neighbor algorithm for the prediction.
